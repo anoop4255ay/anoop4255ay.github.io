@@ -12,3 +12,4 @@
 
 # You can also use email addresses if you prefer.
 docs/*  docs@example.com
+*https://github.com/anoop4255ay/anoop4255ay.github.io/blob/main/Beach-Cocktail-1920x1200.jpg
